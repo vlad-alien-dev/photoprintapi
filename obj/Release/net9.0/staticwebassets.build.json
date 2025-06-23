@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KuAXf+2Y1WOOjfq6tuQTEmKBiNC0UzkyiMdarBnAk4Q=",
+  "Source": "PhotoPrintApp.API",
+  "BasePath": "_content/PhotoPrintApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
