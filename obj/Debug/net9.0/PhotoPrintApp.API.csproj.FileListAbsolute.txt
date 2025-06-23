@@ -85,3 +85,15 @@ D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\obj\Debug\net9.0\PhotoPr
 D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\obj\Debug\net9.0\PhotoPrintApp.API.genruntimeconfig.cache
 D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\obj\Debug\net9.0\ref\PhotoPrintApp.API.dll
 D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\bin\Debug\net9.0\publish\publish\web.config
+D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\bin\Debug\net9.0\publish\web.config
+D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\bin\Debug\net9.0\publish\appsettings.Development.json
+D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\bin\Debug\net9.0\publish\appsettings.json
+D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\bin\Debug\net9.0\publish\PhotoPrintApp.API.deps.json
+D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\bin\Debug\net9.0\publish\PhotoPrintApp.API.runtimeconfig.json
+D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\bin\Debug\net9.0\publish\PhotoPrintApp.API.staticwebassets.endpoints.json
+D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\bin\Debug\net9.0\publish\publish\appsettings.Development.json
+D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\bin\Debug\net9.0\publish\publish\appsettings.json
+D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\bin\Debug\net9.0\publish\publish\PhotoPrintApp.API.deps.json
+D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\bin\Debug\net9.0\publish\publish\PhotoPrintApp.API.runtimeconfig.json
+D:\Projects\Experiments\PhotoPrintApp\PhotoPrintApp.API\bin\Debug\net9.0\publish\publish\PhotoPrintApp.API.staticwebassets.endpoints.json
